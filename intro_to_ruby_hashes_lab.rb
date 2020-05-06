@@ -8,7 +8,7 @@ def actor
 end
 
 def monopoly
-	monopoly = {:railroads => {:pieces => 4}}
+	monopoly = {:railroads => {}}
 end
 
 def monopoly_with_second_tier
